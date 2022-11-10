@@ -8,11 +8,12 @@ import React from 'react'
 //    h1
 //    p > span     (el span mostrará la cantidad recibida por props)
 
-export default function Estatus() {
+export default function Estatus(props) {
   
   return (
     <header>
-        {/* maquetar Estatus aquí */}
+        <h1>Estatus de posteo</h1>
+        <p>Likes totales <span>{props.Posteos}</span></p>
     </header>
   )
 }

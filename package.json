@@ -34,5 +34,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "En cada uno de los componentes está detallado su funcionamiento y lo que deben resolver. 👌",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leinadanul/evaluacion-noviembre-11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leinadanul/evaluacion-noviembre-11/issues"
+  },
+  "homepage": "https://github.com/leinadanul/evaluacion-noviembre-11#readme"
 }
